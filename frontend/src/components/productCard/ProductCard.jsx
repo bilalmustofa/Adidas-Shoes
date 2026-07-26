@@ -1,5 +1,5 @@
 import { FiHeart } from "react-icons/fi";
-import blackShoes from '../../assets/images/product-imgs/Sneaker.png'
+import blackShoes from '../../assets/images/product-imgs/blackShoes.png';
 
 function ProductCard() {
   return (
