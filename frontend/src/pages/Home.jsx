@@ -3,6 +3,7 @@ import Hero from "../sections/hero/Hero.jsx"
 import RecommendProduct from "../sections/recommendProduct/RecommendProduct.jsx";
 import Product from "../sections/products/Product.jsx";
 import Promotion from "../sections/promotion/Promotion.jsx";
+import History from "../sections/history/History.jsx";
 
 
 function Home() {
@@ -13,6 +14,7 @@ function Home() {
         <Product/>
         <Promotion/>
         <RecommendProduct/>
+        <History/>
     </>
   )
 }
