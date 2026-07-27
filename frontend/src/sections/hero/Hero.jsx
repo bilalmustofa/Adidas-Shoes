@@ -6,7 +6,7 @@ function Hero() {
         <section className='w-full h-screen bg-cover bg-center flex items-center'
                   style={{backgroundImage: `url(${heroBg})`}} >
             
-            <div className="ml-8 text-black mt-35">
+            <div className="ml-8 text-black mt-35 px-8">
                 <h1 className="text-6xl font-black uppercase bg-gradient-to-r from-[#9A0E16] to-[#000000] bg-clip-text text-transparent">
                   ADICLUB <br /> IS SHOWING OFF.
                 </h1>
