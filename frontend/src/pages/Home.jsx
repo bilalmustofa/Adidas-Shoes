@@ -5,6 +5,7 @@ import Product from "../sections/products/Product.jsx";
 import Promotion from "../sections/promotion/Promotion.jsx";
 import History from "../sections/history/History.jsx";
 import MostInteresting from "../sections/MostInteresting/MostInteresting.jsx";
+import Footer from "../sections/footer/Footer.jsx";
 
 
 function Home() {
@@ -17,6 +18,7 @@ function Home() {
         <RecommendProduct/>
         <History/>
         <MostInteresting/>
+        <Footer/>
     </>
   )
 }
